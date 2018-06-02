@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="70mm"
+   height="40mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="curiosity_logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="264.71879"
+     inkscape:cy="125.15252"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1106"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:369.8013916px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008100;fill-opacity:1;stroke:none;stroke-width:9.24503517"
+       x="-140.69286"
+       y="300.26498"
+       id="text12"
+       transform="scale(1.0893156,0.91800763)"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="-140.69286"
+         y="300.26498"
+         style="fill:#008100;fill-opacity:1;stroke-width:9.24503517">C</tspan></text>
+    <path
+       style="fill:#008100;fill-opacity:1;stroke:#000000;stroke-width:0.82661414;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       d="m 70.033726,241.44007 c 0,0 49.688904,-22.77236 68.490044,-55.89585 5.37181,-9.31597 14.77239,-43.47451 14.77239,-43.47451 0,0 8.05767,54.86069 -1.34296,70.38734 -5.37173,55.89581 -88.634182,59.00114 -88.634182,59.00114 z"
+       id="path14"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#008100;fill-opacity:1;stroke:#000000;stroke-width:0.8253144px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
+       d="m 87.491964,71.682381 c 0,0 37.602416,24.842559 57.746536,25.877685 20.14413,1.035135 48.3459,-10.351047 48.3459,-10.351047 L 149.26733,75.82284 189.5556,76.857913 c 0,0 9.40058,-16.561711 -4.02883,-22.772359 -13.4294,-6.210659 -59.08944,-5.175587 -73.86181,-8.280847 C 74.062569,35.453587 87.491964,71.682381 87.491964,71.682381 Z"
+       id="path4491"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:77.4380188px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.93595064"
+       x="186.9828"
+       y="67.566277"
+       id="text4508"
+       transform="scale(1.0319914,0.96900036)"><tspan
+         sodipodi:role="line"
+         id="tspan4506"
+         x="186.9828"
+         y="67.566277"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:1.93595064">?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:52.21749878px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1.30543733"
+       x="165.66147"
+       y="229.2394"
+       id="text4512"
+       transform="scale(0.99883071,1.0011707)"><tspan
+         sodipodi:role="line"
+         id="tspan4510"
+         x="165.66147"
+         y="229.2394"
+         style="fill:#ff6600;fill-opacity:1;stroke-width:1.30543733">uriosity</tspan></text>
+  </g>
+</svg>

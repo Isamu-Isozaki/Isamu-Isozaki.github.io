@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-compatible" content="IE=edge">
+    <meta charset="UTF-8">
+    <title>Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="css/normalize.css">
+    <link href='https://fonts.googleapis.com/css?family=Lato:300,100' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="bower_components/webcomponentsjs/webcomponents.min.js"></script>
+    <link rel="import" href="elements/modal-outer.html">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+<div class="container">
+
+<section>
+<header>
+  <div class="row">
+    <div class="col-md-6">
+      <img class="img-responsive logo" src="images/curiosity_logo.svg" alt="logo">
+    </div>
+    <div class="col-md-6 text-right text-uppercase">
+      <h1 class="title-super text-thin">The Curiosity Project</h1>
+       <h4>Isamu Isozaki</h4>
+    </div>
+  </div>
+
+<section>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Home</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="About.html">About<span class="sr-only">(current)</span></a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Projects
+            <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            <li class="dropdown-text"><a href="JST.html">JST</a></li>
+            <li role="separator" class="divider"></li>
+            <li class="dropdown-text"><a href="Square_magic_square.html">Square Magic Squares</a></li>
+            <li role="separator" class="divider"></li>
+            <li class="dropdown-text"><a href="CAS.html">CAS project</a></li>
+            <li role="separator" class="divider"></li>
+            <li class="dropdown-text"><a href="EE.html">Cylinder tipping</a></li>
+            <li role="separator" class="divider"></li>
+          </ul>
+        </li>
+        <li class="unactive"><a href="Blog.html">Blog</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search">
+        <div class="form-group">
+          <input type="text" class="form-control" placeholder="Search">
+        </div>
+        <button type="submit" class="btn btn-default">Submit</button>
+      </form>
+    </div>
+  </div>
+</nav>
+
+</section>
+
+  <div class="row">
+    <div class="col-md-12">
+      <hr>
+    </div>
+  </div>
+
+</header>
+
+</section>
+
+<section>
+  <div class="row">
+    <div class="col-md-12">
+      <h1>Web development 0: First post!</h1>
+      <h3>Date:2018/06/02</h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class = "col-md-12">
+      <p>The question that I will be addressing in the first post, naturally, is how will I structure this blog section. What I did for this first post is to make a row and insert the contents of this blog post into there. While this works fine, I think there is a certain degree of limitation when I try to say, post multiple blog posts. You, the users will need to scroll down! I am not especially being sarcastic here. I just find it to be quite an inconvenience to navigate through the blog posts and to remember the ones you liked.</p>
+      <p>What will I do then? There are multiple solutions to this. There are methods, such as putting all the blogs into a map or a newspaper format or making them rotate around on the home screen. I am not against either of these projects. In fact, it feels quite refreshing to be able to use what I have learnt in Udacity in a practical setting. But still, what will I do? Those two options I mentioned above sounds too flashy for my taste. Actually, having a carousel sounds quite intriguing. I think I will make a carousel on this site with all of my favorite blog posts and then add a nice looking search bar at the top to search for perticular blog posts. Then, I will have the particular blog posts under there in chronogical order. That sounds like a good start!</p>
+      <p>For the web developers out there, I will be using knockout.js to manage the data of the site and bootstrap for the stylish look. I will post any potential humorous incidents or mind bogglingly tiresome(debugging) incidents here. If I find something interesting, I will post that here as well!</p>
+      <p>To those of you who cannot care less about how I structure this blog, do not fear! There are other categories of blog posts other than web development, such as my struggles with chemistry and so on, and I plan to post them alongside my enjoyable experience as a web developer.</p>
+      <p>Now that I think about it, I will categorize my blog posts in a fun way in order to be visually appealing. I may need to use servers. I do not know almost anything about backend web developement so I may need to learn new content. However, I will reserve the pleasure for a later date when I am sure that that is the case!</p>
+    </div>
+  </div>
+</section>
+
+</div>
+<script src="js/modalmanipulate.js"></script>
+</body>
+</html>
